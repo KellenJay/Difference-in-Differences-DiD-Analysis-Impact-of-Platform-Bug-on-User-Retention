@@ -69,6 +69,9 @@ This wasn’t a randomized experiment — the bug naturally affected users start
 | Treatment  | Post   | 1.96             |
 
 
+<img width="1562" height="752" alt="image" src="https://github.com/user-attachments/assets/d68d19df-69d8-451b-ae12-c84dc1bb3050" />
+
+
 
 ### 5. Discuss Trade-offs
 

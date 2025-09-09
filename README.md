@@ -2,7 +2,7 @@
 
 Designed to assess whether a platform bug in April 2020 disrupted onboarding and early engagement behavior.
 
----
+
 
 ### 1. Goal & Funnel
 
@@ -15,7 +15,7 @@ Designed to assess whether a platform bug in April 2020 disrupted onboarding and
 
 A disruption early in this funnel may break learner momentum and reduce retention.
 
----
+
 
 ### 2. Define Metrics
 
@@ -30,7 +30,7 @@ A disruption early in this funnel may break learner momentum and reduce retentio
 - *Number of completions under 5 seconds* — system anomaly proxy.
 - *Support ticket volume or flagged events* — friction or confusion indicator.
 
----
+
 
 ### 3. Experimental Design (DiD)
 
@@ -53,7 +53,7 @@ This wasn’t a randomized experiment — the bug naturally affected users start
 - Engagement trends were **parallel pre-bug** across cohorts.
 - No other significant product or marketing changes occurred in April.
 
----
+
 
 ### 4. Results Summary
 
@@ -68,7 +68,7 @@ This wasn’t a randomized experiment — the bug naturally affected users start
 | Treatment  | Pre    | 3.78             |
 | Treatment  | Post   | 1.96             |
 
----
+
 
 ### 5. Discuss Trade-offs
 
@@ -87,7 +87,7 @@ This wasn’t a randomized experiment — the bug naturally affected users start
 - Monitor **guardrail signals** like flagged completions.
 - Run **segment analysis** across professions and platforms.
 
----
+
 
 ### Final Recommendation
 

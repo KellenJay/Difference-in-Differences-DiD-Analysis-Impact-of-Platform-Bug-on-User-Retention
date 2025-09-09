@@ -70,7 +70,7 @@ This wasn’t a randomized experiment — the bug naturally affected users start
 
 ---
 
-### 5. ⚖Discuss Trade-offs
+### 5. Discuss Trade-offs
 
 #### Pros:
 - Uses **real-world platform behavior** — no artificial constraints.
@@ -82,7 +82,7 @@ This wasn’t a randomized experiment — the bug naturally affected users start
 - Vulnerable to **external confounders** (seasonality, marketing).
 - Possible **measurement noise** due to bugs or tracking issues.
 
-#### 🛠Mitigations:
+#### Mitigations:
 - Validate with **multiple behavioral metrics**.
 - Monitor **guardrail signals** like flagged completions.
 - Run **segment analysis** across professions and platforms.
